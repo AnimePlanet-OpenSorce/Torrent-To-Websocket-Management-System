@@ -21,6 +21,7 @@
   "homepage": "https://github.com/AnimePlanet-OpenSorce/Torrent-To-Websocket-Management-System#readme",
   "description": "",
   "dependencies": {
+    "webtorrent": "^2.8.4",
     "ws": "^8.18.3"
   },
   "volta": {
